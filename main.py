@@ -23,7 +23,7 @@ def image_mars():
     return f'''Жди нас, Марс!</br>
     <img src="{url_for('static', filename='img/mars_photo.png')}" 
            alt="здесь должна была быть картинка, но не нашлась"></br>
-    Красная плонета'''
+    Красная планета'''
 
 
 
