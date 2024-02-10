@@ -1,0 +1,27 @@
+h1 {
+   color: #FF0000;
+}
+
+div1 {
+   background-color: lightgray;
+}
+
+div2 {
+   color: green;
+   background-color: lightgreen;
+}
+
+div3 {
+   background-color: lightgray;
+   opacity: 0.9;
+}
+
+div4 {
+   color: darkyellow;
+   background-color: yellow;
+}
+
+div5 {
+   color: red;
+   background-color: lightred;
+}
