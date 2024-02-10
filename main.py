@@ -20,8 +20,10 @@ def promotion():
 
 @app.route('/image_mars')
 def image_mars():
-    return f'''<img src="{url_for('static', filename='img/image_mars.png')}" 
-           alt="здесь должна была быть картинка, но не нашлась">'''
+    return f'''Жди нас, Марс!</br>
+    <img src="{url_for('static', filename='img/mars_photo.png')}" 
+           alt="здесь должна была быть картинка, но не нашлась"></br>
+    Красная плонета'''
 
 
 
